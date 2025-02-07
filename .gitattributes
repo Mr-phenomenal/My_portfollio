@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# this is just a comment
+#i want know that writing in vs code somthing thaht will directly reflect in git hub
+echo "hello world"
